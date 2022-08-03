@@ -6,7 +6,7 @@ The Kubernetes API represents a collection of resources using a [List kind](http
 ## Install
 
 ```
-go get github.com/orirawlings/multidoc
+go install github.com/orirawlings/multidoc@latest
 ```
 
 ## Use
